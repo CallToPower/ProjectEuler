@@ -1,0 +1,356 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E712F1E2134351EF00773695 /* Problem19.c in Sources */ = {isa = PBXBuildFile; fileRef = E712F1E1134351EF00773695 /* Problem19.c */; };
+		E713FBA01347B1810072EBFB /* Problem17.c in Sources */ = {isa = PBXBuildFile; fileRef = E713FB9E1347B1810072EBFB /* Problem17.c */; };
+		E73352B11341E1F300E59F1B /* Problem14.c in Sources */ = {isa = PBXBuildFile; fileRef = E73352AF1341E1F300E59F1B /* Problem14.c */; };
+		E735AAE4133FCF0000A0E9F5 /* Problem11.c in Sources */ = {isa = PBXBuildFile; fileRef = E735AAE2133FCF0000A0E9F5 /* Problem11.c */; };
+		E75905AA13475FC400906C92 /* Problem_template.c in Sources */ = {isa = PBXBuildFile; fileRef = E75905A913475FC400906C92 /* Problem_template.c */; };
+		E760E465133FAB5400E63D58 /* Makefile in Sources */ = {isa = PBXBuildFile; fileRef = E760E459133FAB5400E63D58 /* Makefile */; };
+		E760E466133FAB5400E63D58 /* Problem1.c in Sources */ = {isa = PBXBuildFile; fileRef = E760E45B133FAB5400E63D58 /* Problem1.c */; };
+		E760E467133FAB5400E63D58 /* Problem10.c in Sources */ = {isa = PBXBuildFile; fileRef = E760E45C133FAB5400E63D58 /* Problem10.c */; };
+		E760E468133FAB5400E63D58 /* Problem2.c in Sources */ = {isa = PBXBuildFile; fileRef = E760E45D133FAB5400E63D58 /* Problem2.c */; };
+		E760E469133FAB5400E63D58 /* Problem3.c in Sources */ = {isa = PBXBuildFile; fileRef = E760E45E133FAB5400E63D58 /* Problem3.c */; };
+		E760E46A133FAB5400E63D58 /* Problem4.c in Sources */ = {isa = PBXBuildFile; fileRef = E760E45F133FAB5400E63D58 /* Problem4.c */; };
+		E760E46B133FAB5400E63D58 /* Problem5.c in Sources */ = {isa = PBXBuildFile; fileRef = E760E460133FAB5400E63D58 /* Problem5.c */; };
+		E760E46C133FAB5400E63D58 /* Problem6.c in Sources */ = {isa = PBXBuildFile; fileRef = E760E461133FAB5400E63D58 /* Problem6.c */; };
+		E760E46D133FAB5400E63D58 /* Problem7.c in Sources */ = {isa = PBXBuildFile; fileRef = E760E462133FAB5400E63D58 /* Problem7.c */; };
+		E760E46E133FAB5400E63D58 /* Problem8.c in Sources */ = {isa = PBXBuildFile; fileRef = E760E463133FAB5400E63D58 /* Problem8.c */; };
+		E760E46F133FAB5400E63D58 /* Problem9.c in Sources */ = {isa = PBXBuildFile; fileRef = E760E464133FAB5400E63D58 /* Problem9.c */; };
+		E7BD6AB6134947BF0024DE48 /* Problem26.c in Sources */ = {isa = PBXBuildFile; fileRef = E7BD6AB5134947BF0024DE48 /* Problem26.c */; };
+		E7CE8F8813437375005890F3 /* Problem21.c in Sources */ = {isa = PBXBuildFile; fileRef = E7CE8F8713437375005890F3 /* Problem21.c */; };
+		E7DD1A371343C4BD002C665C /* Problem24.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E7DD1A361343C4BD002C665C /* Problem24.cpp */; };
+		E7FF393E1340068700292544 /* Problem12.c in Sources */ = {isa = PBXBuildFile; fileRef = E7FF393C1340068700292544 /* Problem12.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E760E43F133FAB2F00E63D58 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		E712F1E1134351EF00773695 /* Problem19.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem19.c; sourceTree = "<group>"; };
+		E713FB9E1347B1810072EBFB /* Problem17.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem17.c; sourceTree = "<group>"; };
+		E731F54A134480140088A223 /* utils.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = utils.lisp; sourceTree = "<group>"; };
+		E73352AF1341E1F300E59F1B /* Problem14.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem14.c; sourceTree = "<group>"; };
+		E73352B31341ED4700E59F1B /* Problem16.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem16.lisp; sourceTree = "<group>"; };
+		E735AAE2133FCF0000A0E9F5 /* Problem11.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem11.c; sourceTree = "<group>"; };
+		E739E212134801EE00513D08 /* Problem23.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem23.lisp; sourceTree = "<group>"; };
+		E746041A13424E9B00733F20 /* Problem17.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem17.lisp; sourceTree = "<group>"; };
+		E746041C13424EC000733F20 /* Problem18.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem18.lisp; sourceTree = "<group>"; };
+		E74C27B31341D89000E37DF3 /* Problem13.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem13.lisp; sourceTree = "<group>"; };
+		E75905A513475FC400906C92 /* Problem13_data.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem13_data.txt; sourceTree = "<group>"; };
+		E75905A613475FC400906C92 /* Problem18_data.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem18_data.txt; sourceTree = "<group>"; };
+		E75905A713475FC400906C92 /* Problem67_data.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem67_data.txt; sourceTree = "<group>"; };
+		E75905A913475FC400906C92 /* Problem_template.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem_template.c; sourceTree = "<group>"; };
+		E75905AB1347606000906C92 /* Problem_template.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem_template.lisp; sourceTree = "<group>"; };
+		E760E441133FAB2F00E63D58 /* Project Euler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Project Euler"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E760E457133FAB5400E63D58 /* color_out.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = color_out.sh; sourceTree = "<group>"; };
+		E760E458133FAB5400E63D58 /* Makefile.options */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Makefile.options; sourceTree = "<group>"; };
+		E760E459133FAB5400E63D58 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = SOURCE_ROOT; };
+		E760E45B133FAB5400E63D58 /* Problem1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem1.c; sourceTree = "<group>"; };
+		E760E45C133FAB5400E63D58 /* Problem10.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem10.c; sourceTree = "<group>"; };
+		E760E45D133FAB5400E63D58 /* Problem2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem2.c; sourceTree = "<group>"; };
+		E760E45E133FAB5400E63D58 /* Problem3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem3.c; sourceTree = "<group>"; };
+		E760E45F133FAB5400E63D58 /* Problem4.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem4.c; sourceTree = "<group>"; };
+		E760E460133FAB5400E63D58 /* Problem5.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem5.c; sourceTree = "<group>"; };
+		E760E461133FAB5400E63D58 /* Problem6.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem6.c; sourceTree = "<group>"; };
+		E760E462133FAB5400E63D58 /* Problem7.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem7.c; sourceTree = "<group>"; };
+		E760E463133FAB5400E63D58 /* Problem8.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem8.c; sourceTree = "<group>"; };
+		E760E464133FAB5400E63D58 /* Problem9.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem9.c; sourceTree = "<group>"; };
+		E7646C8313438F8F00544E35 /* Problem48.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem48.lisp; sourceTree = "<group>"; };
+		E7646C8513438F9B00544E35 /* Problem24.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem24.lisp; sourceTree = "<group>"; };
+		E772DFEC1342AB1600E937A8 /* Problem67.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem67.lisp; sourceTree = "<group>"; };
+		E77CE79113490CB100062226 /* Problem15.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem15.lisp; sourceTree = "<group>"; };
+		E77D6F7713437142003D00E1 /* Problem20.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem20.lisp; sourceTree = "<group>"; };
+		E77D6F7813437142003D00E1 /* Problem25.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem25.lisp; sourceTree = "<group>"; };
+		E79A74AC1349063E0003492E /* Problem4.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem4.lisp; sourceTree = "<group>"; };
+		E7BC58F01348982A00EEA1C0 /* Problem26.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem26.lisp; sourceTree = "<group>"; };
+		E7BC58FA13489E8800EEA1C0 /* Problem3.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem3.lisp; sourceTree = "<group>"; };
+		E7BD6AB5134947BF0024DE48 /* Problem26.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem26.c; sourceTree = "<group>"; };
+		E7CE8F8713437375005890F3 /* Problem21.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem21.c; sourceTree = "<group>"; };
+		E7D810341348B16B005162CB /* Problem7.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem7.lisp; sourceTree = "<group>"; };
+		E7DD1A361343C4BD002C665C /* Problem24.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Problem24.cpp; sourceTree = "<group>"; };
+		E7F86BC713476CD000A30F19 /* Problem22_data.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem22_data.txt; sourceTree = "<group>"; };
+		E7F86BC9134783D500A30F19 /* Problem22.lisp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Problem22.lisp; sourceTree = "<group>"; };
+		E7FF393C1340068700292544 /* Problem12.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Problem12.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E760E43E133FAB2F00E63D58 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E75905A413475FC400906C92 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				E75905A513475FC400906C92 /* Problem13_data.txt */,
+				E75905A613475FC400906C92 /* Problem18_data.txt */,
+				E7F86BC713476CD000A30F19 /* Problem22_data.txt */,
+				E75905A713475FC400906C92 /* Problem67_data.txt */,
+			);
+			path = Data;
+			sourceTree = SOURCE_ROOT;
+		};
+		E75905A813475FC400906C92 /* Templates */ = {
+			isa = PBXGroup;
+			children = (
+				E75905AB1347606000906C92 /* Problem_template.lisp */,
+				E75905A913475FC400906C92 /* Problem_template.c */,
+			);
+			path = Templates;
+			sourceTree = SOURCE_ROOT;
+		};
+		E760E436133FAB2F00E63D58 = {
+			isa = PBXGroup;
+			children = (
+				E760E444133FAB2F00E63D58 /* Project Euler */,
+				E760E442133FAB2F00E63D58 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E760E442133FAB2F00E63D58 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E760E441133FAB2F00E63D58 /* Project Euler */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E760E444133FAB2F00E63D58 /* Project Euler */ = {
+			isa = PBXGroup;
+			children = (
+				E75905A413475FC400906C92 /* Data */,
+				E75905A813475FC400906C92 /* Templates */,
+				E760E456133FAB5400E63D58 /* Make */,
+				E760E459133FAB5400E63D58 /* Makefile */,
+				E760E45A133FAB5400E63D58 /* src */,
+			);
+			path = "Project Euler";
+			sourceTree = "<group>";
+		};
+		E760E456133FAB5400E63D58 /* Make */ = {
+			isa = PBXGroup;
+			children = (
+				E760E457133FAB5400E63D58 /* color_out.sh */,
+				E760E458133FAB5400E63D58 /* Makefile.options */,
+			);
+			path = Make;
+			sourceTree = SOURCE_ROOT;
+		};
+		E760E45A133FAB5400E63D58 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				E731F54A134480140088A223 /* utils.lisp */,
+				E760E45B133FAB5400E63D58 /* Problem1.c */,
+				E760E45D133FAB5400E63D58 /* Problem2.c */,
+				E760E45E133FAB5400E63D58 /* Problem3.c */,
+				E7BC58FA13489E8800EEA1C0 /* Problem3.lisp */,
+				E760E45F133FAB5400E63D58 /* Problem4.c */,
+				E79A74AC1349063E0003492E /* Problem4.lisp */,
+				E760E460133FAB5400E63D58 /* Problem5.c */,
+				E760E461133FAB5400E63D58 /* Problem6.c */,
+				E760E462133FAB5400E63D58 /* Problem7.c */,
+				E7D810341348B16B005162CB /* Problem7.lisp */,
+				E760E463133FAB5400E63D58 /* Problem8.c */,
+				E760E464133FAB5400E63D58 /* Problem9.c */,
+				E760E45C133FAB5400E63D58 /* Problem10.c */,
+				E735AAE2133FCF0000A0E9F5 /* Problem11.c */,
+				E7FF393C1340068700292544 /* Problem12.c */,
+				E74C27B31341D89000E37DF3 /* Problem13.lisp */,
+				E73352AF1341E1F300E59F1B /* Problem14.c */,
+				E77CE79113490CB100062226 /* Problem15.lisp */,
+				E73352B31341ED4700E59F1B /* Problem16.lisp */,
+				E713FB9E1347B1810072EBFB /* Problem17.c */,
+				E746041A13424E9B00733F20 /* Problem17.lisp */,
+				E746041C13424EC000733F20 /* Problem18.lisp */,
+				E712F1E1134351EF00773695 /* Problem19.c */,
+				E77D6F7713437142003D00E1 /* Problem20.lisp */,
+				E7CE8F8713437375005890F3 /* Problem21.c */,
+				E7F86BC9134783D500A30F19 /* Problem22.lisp */,
+				E739E212134801EE00513D08 /* Problem23.lisp */,
+				E7DD1A361343C4BD002C665C /* Problem24.cpp */,
+				E7646C8513438F9B00544E35 /* Problem24.lisp */,
+				E77D6F7813437142003D00E1 /* Problem25.lisp */,
+				E7BD6AB5134947BF0024DE48 /* Problem26.c */,
+				E7BC58F01348982A00EEA1C0 /* Problem26.lisp */,
+				E7646C8313438F8F00544E35 /* Problem48.lisp */,
+				E772DFEC1342AB1600E937A8 /* Problem67.lisp */,
+			);
+			path = src;
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E760E440133FAB2F00E63D58 /* Project Euler */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E760E44A133FAB2F00E63D58 /* Build configuration list for PBXNativeTarget "Project Euler" */;
+			buildPhases = (
+				E760E43D133FAB2F00E63D58 /* Sources */,
+				E760E43E133FAB2F00E63D58 /* Frameworks */,
+				E760E43F133FAB2F00E63D58 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Project Euler";
+			productName = "Project Euler";
+			productReference = E760E441133FAB2F00E63D58 /* Project Euler */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E760E438133FAB2F00E63D58 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "Universität Osnabrück";
+			};
+			buildConfigurationList = E760E43B133FAB2F00E63D58 /* Build configuration list for PBXProject "Project Euler" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E760E436133FAB2F00E63D58;
+			productRefGroup = E760E442133FAB2F00E63D58 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E760E440133FAB2F00E63D58 /* Project Euler */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E760E43D133FAB2F00E63D58 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E760E465133FAB5400E63D58 /* Makefile in Sources */,
+				E760E466133FAB5400E63D58 /* Problem1.c in Sources */,
+				E760E467133FAB5400E63D58 /* Problem10.c in Sources */,
+				E760E468133FAB5400E63D58 /* Problem2.c in Sources */,
+				E760E469133FAB5400E63D58 /* Problem3.c in Sources */,
+				E760E46A133FAB5400E63D58 /* Problem4.c in Sources */,
+				E760E46B133FAB5400E63D58 /* Problem5.c in Sources */,
+				E760E46C133FAB5400E63D58 /* Problem6.c in Sources */,
+				E760E46D133FAB5400E63D58 /* Problem7.c in Sources */,
+				E760E46E133FAB5400E63D58 /* Problem8.c in Sources */,
+				E760E46F133FAB5400E63D58 /* Problem9.c in Sources */,
+				E735AAE4133FCF0000A0E9F5 /* Problem11.c in Sources */,
+				E7FF393E1340068700292544 /* Problem12.c in Sources */,
+				E73352B11341E1F300E59F1B /* Problem14.c in Sources */,
+				E712F1E2134351EF00773695 /* Problem19.c in Sources */,
+				E7CE8F8813437375005890F3 /* Problem21.c in Sources */,
+				E7DD1A371343C4BD002C665C /* Problem24.cpp in Sources */,
+				E75905AA13475FC400906C92 /* Problem_template.c in Sources */,
+				E713FBA01347B1810072EBFB /* Problem17.c in Sources */,
+				E7BD6AB6134947BF0024DE48 /* Problem26.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		E760E448133FAB2F00E63D58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		E760E449133FAB2F00E63D58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		E760E44B133FAB2F00E63D58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		E760E44C133FAB2F00E63D58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E760E43B133FAB2F00E63D58 /* Build configuration list for PBXProject "Project Euler" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E760E448133FAB2F00E63D58 /* Debug */,
+				E760E449133FAB2F00E63D58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E760E44A133FAB2F00E63D58 /* Build configuration list for PBXNativeTarget "Project Euler" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E760E44B133FAB2F00E63D58 /* Debug */,
+				E760E44C133FAB2F00E63D58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E760E438133FAB2F00E63D58 /* Project object */;
+}

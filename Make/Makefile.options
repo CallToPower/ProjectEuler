@@ -1,0 +1,15 @@
+# compiler
+CCC = gcc
+CPP = g++
+
+# compiler flags
+CCFLAGS = -Wall -Wno-unused
+
+# compile flags
+LDFLAGS = -g
+
+# output
+ECHO = Make/color_out.sh
+
+SRC = src/
+OBJ = obj/
